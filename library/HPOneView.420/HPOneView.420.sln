@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4FA41F8E-4E79-48A2-AEEB-E7BADF5BF29B}") = "HPOneView.420", "HPOneView.420\HPOneView.420.csproj", "{5B34F433-BE14-419D-BEF2-6EEAF581CDA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B34F433-BE14-419D-BEF2-6EEAF581CDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B34F433-BE14-419D-BEF2-6EEAF581CDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B34F433-BE14-419D-BEF2-6EEAF581CDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B34F433-BE14-419D-BEF2-6EEAF581CDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5B7F5D-0F0E-4F10-A340-B8E027EF07EE}
+	EndGlobalSection
+EndGlobal
